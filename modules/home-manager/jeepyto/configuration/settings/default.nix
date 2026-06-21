@@ -1,0 +1,8 @@
+{ ... }:
+{
+  imports = [
+    ./fastfetch
+    ./mangohud
+    ./gnome
+  ];
+}
