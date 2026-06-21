@@ -1,7 +1,7 @@
 { ... }:
 {
   imports = [
-    ./realvnc
+    #./realvnc
     ./vscode
   ];
 }
